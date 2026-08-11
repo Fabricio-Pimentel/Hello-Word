@@ -1,0 +1,11 @@
+body {
+    background-color: white ;
+    color: black;
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: grey ;
+    color: greenyellow;
+    padding: 30px
+}
